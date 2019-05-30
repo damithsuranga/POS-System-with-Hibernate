@@ -1,11 +1,13 @@
 POS-System with Hibernate
 
 <<<<<<< HEAD
-###Layerd Architecture
+Layerd Architecture
+====
 
 -Singleton,DAO,DTO,Factory,Strategy Design Pattern
 
- ###How to run & test 
+How to run & test 
+========
  
 1.Create a folder in local machine.
 
@@ -16,7 +18,8 @@ https://github.com/damithsuranga/POS-System-with-Hibernatep
 
 4.Import project via Intellij Idea.
 
-####Prerequisites
+Perequisites
+=====
 
 1.Intellij Idea
 
@@ -24,7 +27,8 @@ https://github.com/damithsuranga/POS-System-with-Hibernatep
 
 3.SceneBulider
 
-####Technology Stack
+Technology Stack
+==============
 
 1.Hibernate
 
@@ -34,11 +38,13 @@ https://github.com/damithsuranga/POS-System-with-Hibernatep
 
 4.MySQL
 
-###Authors
+Authors
+=============
 
 https://github.com/damithsuranga
 
-###License
+License
+========
 
 Distributed under the MIT License
 =======
