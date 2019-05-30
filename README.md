@@ -1,4 +1,5 @@
 POS-System with Hibernate
+=====
 
 <<<<<<< HEAD
 Layerd Architecture
